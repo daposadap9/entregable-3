@@ -1,0 +1,14 @@
+.locationInfo{
+    width: 50%;
+    height: 190px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    justify-content: center;
+    background-color: #062226;
+    color: white;
+}
+.locationInfo__ul{
+    display: flex;
+    justify-content: space-evenly;
+}
